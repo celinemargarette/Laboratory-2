@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+     <head>
+           <meta charset="UTF-8">
+           <meta name="author" content="Celine Payla">
+           <meta name="Keywords" content="Lab Exercise 2">
+           <meta name="date-submitted" content="02-09-2024">
+   </head>
+   <body>
+    <div>
+       <h1>Celine's Profile</h1>
+	    <p>A collection of details written in webpages about me!</p>
+		<a href="https://celinemargarette.github.io/Laboratory-2/">Click here to know my favorite games!</a>
+		</div>
+     </body>
+</html>
